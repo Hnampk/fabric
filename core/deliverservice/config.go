@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/hyperledger/fabric/core/config"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
-	"github.com/hyperledger/fabric/internal/pkg/peer/orderers"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/comm"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/peer/orderers"
 
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"

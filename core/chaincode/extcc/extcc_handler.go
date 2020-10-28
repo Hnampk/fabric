@@ -11,7 +11,7 @@ import (
 
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/core/container/ccintf"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/comm"
 	"github.com/pkg/errors"
 
 	pb "github.com/hyperledger/fabric-protos-go/peer"

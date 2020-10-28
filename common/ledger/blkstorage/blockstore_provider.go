@@ -14,7 +14,7 @@ import (
 	"github.com/hyperledger/fabric/common/ledger/util/leveldbhelper"
 	"github.com/hyperledger/fabric/common/metrics"
 	"github.com/hyperledger/fabric/core/ledger"
-	"github.com/hyperledger/fabric/internal/fileutil"
+	"github.com/hyperledger/fabric/usable-inter-nal/fileutil"
 	"github.com/pkg/errors"
 )
 

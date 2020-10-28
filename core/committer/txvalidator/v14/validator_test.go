@@ -44,7 +44,7 @@ import (
 	"github.com/hyperledger/fabric/core/ledger/ledgermgmt/ledgermgmttest"
 	mocktxvalidator "github.com/hyperledger/fabric/core/mocks/txvalidator"
 	mocks2 "github.com/hyperledger/fabric/discovery/support/mocks"
-	"github.com/hyperledger/fabric/internal/pkg/txflags"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/txflags"
 	"github.com/hyperledger/fabric/msp"
 	"github.com/hyperledger/fabric/msp/mgmt"
 	msptesttools "github.com/hyperledger/fabric/msp/mgmt/testtools"

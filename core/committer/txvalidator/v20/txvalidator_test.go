@@ -20,7 +20,7 @@ import (
 	ledger2 "github.com/hyperledger/fabric/core/ledger"
 	"github.com/hyperledger/fabric/core/ledger/kvledger/txmgmt/rwsetutil"
 	mocktxvalidator "github.com/hyperledger/fabric/core/mocks/txvalidator"
-	"github.com/hyperledger/fabric/internal/pkg/txflags"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/txflags"
 	mspmgmt "github.com/hyperledger/fabric/msp/mgmt"
 	"github.com/hyperledger/fabric/protoutil"
 	"github.com/stretchr/testify/mock"

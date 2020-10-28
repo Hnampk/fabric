@@ -32,7 +32,7 @@ import (
 	"github.com/hyperledger/fabric/gossip/metrics/mocks"
 	"github.com/hyperledger/fabric/gossip/protoext"
 	"github.com/hyperledger/fabric/gossip/util"
-	corecomm "github.com/hyperledger/fabric/internal/pkg/comm"
+	corecomm "github.com/hyperledger/fabric/usable-inter-nal/pkg/comm"
 	"github.com/stretchr/testify/require"
 )
 

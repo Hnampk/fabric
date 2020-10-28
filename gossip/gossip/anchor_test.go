@@ -22,7 +22,7 @@ import (
 	"github.com/hyperledger/fabric/gossip/common"
 	"github.com/hyperledger/fabric/gossip/protoext"
 	utilgossip "github.com/hyperledger/fabric/gossip/util"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/comm"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"
 )

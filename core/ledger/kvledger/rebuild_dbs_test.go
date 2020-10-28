@@ -12,7 +12,7 @@ import (
 
 	configtxtest "github.com/hyperledger/fabric/common/configtx/test"
 	"github.com/hyperledger/fabric/core/ledger/mock"
-	"github.com/hyperledger/fabric/internal/fileutil"
+	"github.com/hyperledger/fabric/usable-inter-nal/fileutil"
 	"github.com/stretchr/testify/require"
 )
 

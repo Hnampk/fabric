@@ -16,7 +16,7 @@ import (
 	"github.com/hyperledger/fabric/bccsp/sw"
 	"github.com/hyperledger/fabric/common/configtx/test"
 	"github.com/hyperledger/fabric/common/crypto"
-	"github.com/hyperledger/fabric/internal/pkg/txflags"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/txflags"
 
 	"github.com/hyperledger/fabric/common/ledger/testutil/fakes"
 	"github.com/hyperledger/fabric/msp"
