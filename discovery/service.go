@@ -18,8 +18,8 @@ import (
 	"github.com/hyperledger/fabric/discovery/protoext"
 	common2 "github.com/hyperledger/fabric/gossip/common"
 	discovery2 "github.com/hyperledger/fabric/gossip/discovery"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
 	"github.com/hyperledger/fabric/protoutil"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/comm"
 	"github.com/pkg/errors"
 )
 

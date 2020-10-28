@@ -12,8 +12,8 @@ import (
 	"github.com/hyperledger/fabric/bccsp"
 	"github.com/hyperledger/fabric/common/channelconfig"
 	"github.com/hyperledger/fabric/common/policies"
-	"github.com/hyperledger/fabric/internal/pkg/identity"
 	"github.com/hyperledger/fabric/protoutil"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/identity"
 
 	"github.com/hyperledger/fabric/orderer/common/localconfig"
 	"github.com/pkg/errors"

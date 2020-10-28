@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/hyperledger/fabric/core/deliverservice/fake"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
-	"github.com/hyperledger/fabric/internal/pkg/peer/blocksprovider"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/comm"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/peer/blocksprovider"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

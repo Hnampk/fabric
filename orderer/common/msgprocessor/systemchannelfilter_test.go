@@ -15,10 +15,10 @@ import (
 	"github.com/hyperledger/fabric/common/channelconfig"
 	"github.com/hyperledger/fabric/common/configtx"
 	"github.com/hyperledger/fabric/core/config/configtest"
-	"github.com/hyperledger/fabric/internal/configtxgen/encoder"
-	"github.com/hyperledger/fabric/internal/configtxgen/genesisconfig"
 	"github.com/hyperledger/fabric/orderer/common/msgprocessor/mocks"
 	"github.com/hyperledger/fabric/protoutil"
+	"github.com/hyperledger/fabric/usable-inter-nal/configtxgen/encoder"
+	"github.com/hyperledger/fabric/usable-inter-nal/configtxgen/genesisconfig"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 )

@@ -21,11 +21,11 @@ import (
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/common/tools/protolator"
 	"github.com/hyperledger/fabric/common/tools/protolator/protoext/ordererext"
-	"github.com/hyperledger/fabric/internal/configtxgen/encoder"
-	"github.com/hyperledger/fabric/internal/configtxgen/genesisconfig"
-	"github.com/hyperledger/fabric/internal/configtxgen/metadata"
-	"github.com/hyperledger/fabric/internal/configtxlator/update"
 	"github.com/hyperledger/fabric/protoutil"
+	"github.com/hyperledger/fabric/usable-inter-nal/configtxgen/encoder"
+	"github.com/hyperledger/fabric/usable-inter-nal/configtxgen/genesisconfig"
+	"github.com/hyperledger/fabric/usable-inter-nal/configtxgen/metadata"
+	"github.com/hyperledger/fabric/usable-inter-nal/configtxlator/update"
 	"github.com/pkg/errors"
 )
 

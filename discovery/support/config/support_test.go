@@ -24,9 +24,9 @@ import (
 	"github.com/hyperledger/fabric/common/configtx/test"
 	"github.com/hyperledger/fabric/discovery/support/config"
 	"github.com/hyperledger/fabric/discovery/support/mocks"
-	"github.com/hyperledger/fabric/internal/configtxgen/encoder"
-	"github.com/hyperledger/fabric/internal/configtxgen/genesisconfig"
 	"github.com/hyperledger/fabric/protoutil"
+	"github.com/hyperledger/fabric/usable-inter-nal/configtxgen/encoder"
+	"github.com/hyperledger/fabric/usable-inter-nal/configtxgen/genesisconfig"
 	"github.com/onsi/gomega/gexec"
 	"github.com/stretchr/testify/assert"
 )

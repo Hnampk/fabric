@@ -12,12 +12,12 @@ import (
 	"strings"
 
 	"github.com/hyperledger/fabric/bccsp/factory"
-	"github.com/hyperledger/fabric/internal/peer/chaincode"
-	"github.com/hyperledger/fabric/internal/peer/channel"
-	"github.com/hyperledger/fabric/internal/peer/common"
-	"github.com/hyperledger/fabric/internal/peer/lifecycle"
-	"github.com/hyperledger/fabric/internal/peer/node"
-	"github.com/hyperledger/fabric/internal/peer/version"
+	"github.com/hyperledger/fabric/usable-inter-nal/peer/chaincode"
+	"github.com/hyperledger/fabric/usable-inter-nal/peer/channel"
+	"github.com/hyperledger/fabric/usable-inter-nal/peer/common"
+	"github.com/hyperledger/fabric/usable-inter-nal/peer/lifecycle"
+	"github.com/hyperledger/fabric/usable-inter-nal/peer/node"
+	"github.com/hyperledger/fabric/usable-inter-nal/peer/version"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

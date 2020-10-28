@@ -13,8 +13,8 @@ import (
 	"github.com/hyperledger/fabric/common/policies"
 	"github.com/hyperledger/fabric/discovery/support/acl"
 	"github.com/hyperledger/fabric/discovery/support/mocks"
-	gmocks "github.com/hyperledger/fabric/internal/peer/gossip/mocks"
 	"github.com/hyperledger/fabric/protoutil"
+	gmocks "github.com/hyperledger/fabric/usable-inter-nal/peer/gossip/mocks"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 )

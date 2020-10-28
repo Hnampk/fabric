@@ -21,7 +21,7 @@ import (
 	"github.com/hyperledger/fabric/core/handlers/library"
 	"github.com/hyperledger/fabric/core/ledger"
 	"github.com/hyperledger/fabric/core/scc"
-	"github.com/hyperledger/fabric/internal/pkg/identity"
+	"github.com/hyperledger/fabric/usable-inter-nal/pkg/identity"
 	"github.com/pkg/errors"
 )
 
